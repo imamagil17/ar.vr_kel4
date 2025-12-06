@@ -7,7 +7,7 @@
   <h4 align="center">Object Recognition & Hand Tracking (Buku "Pergi")</h4>
 
   <p align="center">
-    Proyek Akhir (UAS) Pengembangan Aplikasi Augmented Reality & Virtual Reality.
+    Pengembangan Aplikasi Augmented Reality & Virtual Reality.
   </p>
 </div>
 
