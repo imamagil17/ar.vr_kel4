@@ -1,7 +1,6 @@
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-2021.3%2B-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Version">
-  <img src="https://img-up.oss-cn-hangzhou.aliyuncs.com/Tere%20Liye-1372e9.svg" alt="Tere Liye">
   <img src="https://img.shields.io/badge/Tech-AR%20%26%20VR-blue?style=for-the-badge" alt="AR VR">
 
   <h3 align="center">Tugas Besar AR/VR - Kelompok 4</h3>
@@ -91,10 +90,9 @@ Memungkinkan interaksi natural dengan objek virtual menggunakan *Hand Tracking* 
 
 | NIM | Nama Mahasiswa | Role / Tugas |
 | :--- | :--- | :--- |
-| **F55123066** | **Imam** | Programmer (AR Logic & Vuforia) |
-| **[NIM 2]** | **[Nama 2]** | Programmer (VR Hand Tracking & Interaksi) |
-| **[NIM 3]** | **[Nama 3]** | UI/UX Designer & 3D Assets |
-| **[NIM 4]** | **[Nama 4]** | Dokumentasi & Pengujian |
+| **F55123066** | **Imam Agil Aiman** | Project Leader, Lead Developer, AR & VR Specialist, DevOps|
+| **F55123090** | **Isti Zahra Eka Putri Katili** | 3D Artist, UI/UX Designer, Demo |
+| **F55123076** | **Muhammad Rayyan Nazmuddin** | QA/Tester, Documentation |
 
 ---
 
