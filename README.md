@@ -73,7 +73,7 @@ Aplikasi ini memiliki dua mode operasi:
 
 | NIM | Nama Mahasiswa | Peran Kunci |
 | :--- | :--- | :--- |
-| **F55123066** | **Imam Agil Aiman** | Project Leader, Lead Developer (AR/VR Logic, DevOps) |
+| **F55123066** | **Imam Agil Aiman** | Project Leader, Lead Developer AR/VR Logic, DevOps |
 | **F55123090** | **Isti Zahra Eka Putri Katili** | 3D Artist, UI/UX Designer, Demo Presentation |
 | **F55123076** | **Muhammad Rayyan Nazmuddin** | QA/Tester, Dokumentasi Teknis |
 
