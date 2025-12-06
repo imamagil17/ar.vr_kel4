@@ -1,7 +1,6 @@
 <br />
 <div align="center">
   <img src="https://img.shields.io/badge/Unity-2021.3%2B-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Version">
-  <img src="https://img-up.oss-cn-hangzhou.aliyuncs.com/Tere%20Liye-1372e9.svg" alt="Tere Liye">
   <img src="https://img.shields.io/badge/Tech-AR%20%26%20VR-blue?style=for-the-badge" alt="AR VR">
 
   <h3 align="center">Tugas Besar AR/VR - Kelompok 4</h3>
@@ -88,8 +87,4 @@ Proyek ini dibuat untuk tujuan **Akademik/Edukasi** dan dilisensikan di bawah **
 Implementasi dasar Hand Tracking dan koneksi data UDP sebagian besar mengacu pada tutorial dan skrip yang disediakan secara gratis oleh **Murtaza's Workshop - Robotics and AI**.
 
 * Lisensi *library* seperti CV Zone, MediaPipe, dan OpenCV tunduk pada ketentuan lisensi *open-source* masing-masing.
-* Penggunaan Unity dan Vuforia tunduk pada kebijakan lisensi perusahaan masing-masing.
 
----
-
-Apakah ada bagian lain yang ingin Anda sempurnakan atau tambahkan?
