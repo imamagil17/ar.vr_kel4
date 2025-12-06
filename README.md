@@ -8,14 +8,9 @@
   <h4 align="center">Object Recognition & Hand Tracking (Buku "Pergi")</h4>
 
   <p align="center">
-    Proyek Akhir (UAS) Pengembangan Aplikasi Augmented Reality & Virtual Reality.
+    Pengembangan Aplikasi Augmented Reality & Virtual Reality.
     <br />
     <br />
-    <a href="#demo">Lihat Demo</a>
-    ·
-    <a href="#fitur">Fitur Utama</a>
-    ·
-    <a href="#tim-pengembang">Tim Pengembang</a>
   </p>
 </div>
 
@@ -96,7 +91,7 @@ Memungkinkan interaksi natural dengan objek virtual menggunakan *Hand Tracking* 
 
 | NIM | Nama Mahasiswa | Role / Tugas |
 | :--- | :--- | :--- |
-| **[NIM 1]** | **[Nama 1]** | Programmer (AR Logic & Vuforia) |
+| **F55123066** | **Imam** | Programmer (AR Logic & Vuforia) |
 | **[NIM 2]** | **[Nama 2]** | Programmer (VR Hand Tracking & Interaksi) |
 | **[NIM 3]** | **[Nama 3]** | UI/UX Designer & 3D Assets |
 | **[NIM 4]** | **[Nama 4]** | Dokumentasi & Pengujian |
